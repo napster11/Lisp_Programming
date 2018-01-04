@@ -8,6 +8,7 @@ both sides of the river).
 
 
 <-------------8Puzzle.lisp------------------------>
+
 2. Implement the A* search for searching trees (in Lisp). Do not use Russell’s code or other
 code from the web. Implement a counter that counts the number of nodes expanded and prints this
 number at the end of the search. Use your code to solve the 8-puzzle problem with the heuristic
